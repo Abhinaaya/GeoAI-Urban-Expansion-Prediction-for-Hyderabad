@@ -1,5 +1,4 @@
-# Cellular Automata Modeling of Urban Expansion in Hyderabad Metropolitan Area (2020-2050)
-
+# Urban Sprawl Prediction in Hyderabad using GeoAI
 **Course:** Optical Remote Sensing (ORS), Spring 2026
 
 **Team:**
