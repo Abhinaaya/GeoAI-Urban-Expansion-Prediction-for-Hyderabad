@@ -116,9 +116,7 @@ The notebook exports all intermediate results (LULC maps, driver arrays, MLR coe
 
 The report is available in three formats in the `Report/` directory:
 
-- `Report.tex` (LaTeX source, authoritative version)
 - `Report.pdf` (compiled, 64 pages)
-- `Report.docx` (Word document)
 
 The report follows the stipulated format: Introduction (with literature survey, objectives, study area), Materials and Methods, Results and Discussion, Data and Code Availability, Acknowledgements, and References (25 cited works, all DOIs verified).
 
